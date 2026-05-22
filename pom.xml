@@ -19,6 +19,7 @@
     <modules>
         <module>project-reactor</module>
         <module>step-verifier</module>
+        <module>pruebas-servicios</module>
     </modules>
 
     <properties>
