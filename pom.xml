@@ -20,6 +20,8 @@
         <module>project-reactor</module>
         <module>step-verifier</module>
         <module>pruebas-servicios</module>
+        <module>contrapresion</module>
+        <module>transformacion</module>
     </modules>
 
     <properties>
