@@ -23,6 +23,7 @@
         <module>contrapresion</module>
         <module>transformacion</module>
         <module>manejo-excepciones</module>
+        <module>thymeleaf-reactivo</module>
     </modules>
 
     <properties>
