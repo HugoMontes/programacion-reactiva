@@ -24,6 +24,7 @@
         <module>transformacion</module>
         <module>manejo-excepciones</module>
         <module>thymeleaf-reactivo</module>
+        <module>hotcold-publishers</module>
     </modules>
 
     <properties>
