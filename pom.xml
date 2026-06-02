@@ -25,6 +25,7 @@
         <module>manejo-excepciones</module>
         <module>thymeleaf-reactivo</module>
         <module>hotcold-publishers</module>
+        <module>api-rest-anotaciones</module>
     </modules>
 
     <properties>
