@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: api-rest-reactiva-mongodb
+  mongodb:
+    uri: mongodb://admin:secret_password@localhost:27017/spring_boot_db?authSource=admin

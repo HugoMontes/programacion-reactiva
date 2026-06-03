@@ -26,6 +26,7 @@
         <module>thymeleaf-reactivo</module>
         <module>hotcold-publishers</module>
         <module>api-rest-anotaciones</module>
+        <module>api-rest-reactiva-mongodb</module>
     </modules>
 
     <properties>

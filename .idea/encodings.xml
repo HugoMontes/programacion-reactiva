@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/api-rest-anotaciones/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-rest-reactiva-mongodb/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/contrapresion/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hotcold-publishers/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/manejo-excepciones/src/main/java" charset="UTF-8" />
